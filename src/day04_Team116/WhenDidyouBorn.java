@@ -1,4 +1,4 @@
-package Team116;
+package day04_Team116;
 
 import java.util.Scanner;
 
