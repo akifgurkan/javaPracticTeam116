@@ -15,6 +15,9 @@ public class Q4_EbobEkok {
                 kucukSayi = sayi2;
                 buyukSayi = sayi1;
             }
+
+
+
             for (int i = kucukSayi ; i > 1 ; i--) {
                 if ( sayi1 % i == 0 && sayi2 % i == 0 ){
                     System.out.println("Sayilarin EBOB'u = " + i );
